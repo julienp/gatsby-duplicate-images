@@ -6,6 +6,7 @@ const IndexPage = () => {
     <main>
       <title>One</title>
       <StaticImage src="../../images/one.jpg" alt="One" />
+      <StaticImage src="../../images/new.jpg" alt="New" />
     </main>
   );
 };
